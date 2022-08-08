@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @strohs, a software engineer based in Charlotte, North Carolina.
-- 👀 I’m interested in many things and I'm always eager to learn something new, especially programming languages
-- 🦀 My main areas of expertise are backend development with Java, Spring Framework and AWS. But I've also dabbled on the frontend with Vue.js
-- 🌱 I’m currently becoming even more proficient with Rust, as well as Python and Node.js
+- 👀 I’m interested in many things and I'm always learning something new, especially programming languages.
+- 🦀 I'm a fullstack developer but my main areas of expertise is in backend development with Java, Spring Framework and the cloud.
+- 🌱 My current focus is on the Rust proramming language, as well as Python and Node.js
 - 📫 How to reach me, email: strohs1@gmail.com
 
 <!---
